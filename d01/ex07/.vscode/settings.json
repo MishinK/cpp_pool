@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "filesystem": "c",
+        "istream": "c",
+        "ostream": "cpp"
+    }
+}
